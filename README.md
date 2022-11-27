@@ -3,5 +3,5 @@
 ```
 start.sh
 ```
-Live Demo
+Demo
 [heroku](https://obscure-springs-13634.herokuapp.com/)
