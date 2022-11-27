@@ -3,5 +3,5 @@
 ```
 start.sh
 ```
-Demo
+Demo free dyno
 [heroku](https://obscure-springs-13634.herokuapp.com/)
